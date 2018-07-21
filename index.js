@@ -28,6 +28,3 @@ function iLoveTheBeatles(n) {
  while (i < n);
  return array
 }
-
-
-
