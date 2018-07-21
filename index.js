@@ -18,7 +18,7 @@ return fact
 }
 
 function iLoveTheBeatles(n) {
-  // var n = i
+ var n = i
   var i = 0
   var array = []
   do {
