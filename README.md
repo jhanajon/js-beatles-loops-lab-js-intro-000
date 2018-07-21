@@ -54,14 +54,15 @@ number is less than `15`. The function should return the array with the strings
 1-which accepts a number as a parameter
 
 2-create a variable that stores an empty array
-implement a do-while loop inside the function that adds `"I love the Beatles!"`
+
+3-implement a do-while loop inside the function that adds `"I love the Beatles!"`
 to the empty array
 
-3-Then the loop should increment the number passed in as a
+4-Then the loop should increment the number passed in as a
 parameter
 
-4-he condition of the loop should check to see that the parameter
+5-the condition of the loop should check to see that the parameter
 number is less than `15`
 
-5-The function should return the array with the strings
+6-The function should return the array with the strings
 `"I love the Beatles!"`
