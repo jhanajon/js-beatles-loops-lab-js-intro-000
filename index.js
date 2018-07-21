@@ -18,13 +18,13 @@ return fact
 }
 
 function iLoveTheBeatles(n) {
-  //var n = i
+  var n = i
   var i = 0
   var array = []
   do {
     array.push('I love the Beatles!')
     i++
   }
- while (i < 15);
+ while (i < n);
  return array
 }
