@@ -19,8 +19,9 @@ return fact
 
 function iLoveTheBeatles(n) {
   // var n = i
-  var i = 0
+
   var array = []
+  var i = 0
   do {
     array.push('I love the Beatles!')
     i++
