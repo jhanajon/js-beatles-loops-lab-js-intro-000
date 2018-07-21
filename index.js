@@ -14,7 +14,7 @@ function johnLennonFacts(array) {
   fact.push(`${array[i]}!!!`)
   i++
 }
-return(fact)
+return fact
 }
 
 function iLoveTheBeatles(n) {
